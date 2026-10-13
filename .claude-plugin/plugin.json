@@ -1,0 +1,18 @@
+{
+  "name": "linkedin-para-devs",
+  "description": "Perfil do LinkedIn para devs com base em evidências: diagnóstico, textos campo a campo, plano de rede e de vagas, textos prontos e busca de recrutadores; aplica pelo navegador se você aprovar.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Péricles Feitoza"
+  },
+  "license": "MIT",
+  "keywords": [
+    "linkedin",
+    "carreira",
+    "desenvolvedores",
+    "perfil",
+    "posts"
+  ],
+  "homepage": "https://github.com/periclesanfe/linkedin-para-devs",
+  "repository": "https://github.com/periclesanfe/linkedin-para-devs"
+}

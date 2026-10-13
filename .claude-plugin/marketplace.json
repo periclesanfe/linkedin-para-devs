@@ -1,0 +1,13 @@
+{
+  "name": "linkedin-para-devs",
+  "description": "Skill do Claude Code para devs cuidarem do LinkedIn com base em evidências: perfil campo a campo, plano de rede e de vagas e busca de recrutadores.",
+  "owner": {
+    "name": "Péricles Feitoza"
+  },
+  "plugins": [
+    {
+      "name": "linkedin-para-devs",
+      "source": "./"
+    }
+  ]
+}
