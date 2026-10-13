@@ -53,6 +53,10 @@ cp -R linkedin-para-devs/skills/linkedin-para-devs ~/.claude/skills/
 
 Para usar só num projeto, copie para `.claude/skills/` dentro dele.
 
+### No Claude.ai
+
+Baixe o `linkedin-para-devs.skill` na página de [Releases](https://github.com/periclesanfe/linkedin-para-devs/releases/latest) e envie na área de Skills das configurações do Claude.ai. Lá não há navegador nem `gh`, então a skill trabalha com o PDF do perfil e com o que você colar. Você aplica as mudanças à mão.
+
 ### O que ajuda ter (opcional)
 
 - **`gh` (GitHub CLI) autenticado:** para a skill ler os seus repositórios e tirar daí período, stack e o que você fez.
